@@ -28,3 +28,8 @@ Check out the live demo of **AuraSpace**: [AuraSpace Demo](https://yourwebsite.c
    ```bash
    git clone https://github.com/geek-saurav/AuraSpace.git
    cd AuraSpace
+
+
+
+   
+![Screenshot 2024-10-26 220403](https://github.com/user-attachments/assets/e9c81758-6820-4394-a4e5-655dabbd3d3a)
