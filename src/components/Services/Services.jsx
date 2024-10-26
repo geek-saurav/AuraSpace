@@ -10,7 +10,7 @@ const ServiceCard = [
     id: 1,
     title: "Luxury Facilities",
     description:
-      "Lorem ipsum dolor sit amet, consectetur adipiscing elit,Lorem ipsum dolor sit amet, consectetur",
+      "Experience the ultimate in comfort and convenience with our luxury facilities",
     icon: <FaVectorSquare />,
     link: "#",
     delay: 0.2,
@@ -19,7 +19,7 @@ const ServiceCard = [
     id: 2,
     title: "Quality Products",
     description:
-      "Lorem ipsum dolor sit amet, consectetur adipiscing elit,Lorem ipsum dolor sit amet, consectetur",
+      "Discover excellence with our premium quality products designed for lasting performance",
     icon: <FaPenToSquare />,
     link: "#",
     delay: 0.4,
@@ -28,7 +28,7 @@ const ServiceCard = [
     id: 3,
     title: "Affordable Price",
     description:
-      "Lorem ipsum dolor sit amet, consectetur Lorem ipsum dolor sit amet, consectetur adipiscing elit,",
+      "Enjoy exceptional value with our quality products at affordable prices",
     icon: <BiSolidDollarCircle />,
     link: "#",
     delay: 0.6,

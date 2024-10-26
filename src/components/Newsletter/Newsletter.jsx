@@ -19,8 +19,7 @@ const Newsletter = () => {
         whileInView="animate"
         className="max-w-[300px] mx-auto text-gray-500 text-sm text-center"
       >
-        Lorem ipsum, dolor sit amet consectetur adipisicing elit. Sed libero
-        doloremque ab eum!
+        Stay in the loop—subscribe to our newsletter for the latest updates and exclusive content!
       </motion.p>
       {/* form here */}
       <motion.div

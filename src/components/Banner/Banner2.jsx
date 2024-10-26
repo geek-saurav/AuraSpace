@@ -24,9 +24,8 @@ const Banner2 = () => {
               whileInView="animate"
               className="text-gray-500 text-sm leading-7"
             >
-              Lorem ipsum dolor, sit amet consectetur adipisicing elit. Suscipit
-              earum accusantium tempore nam adipisicing elit. Suscipit earum
-              accusantium tempore nam aliquid{" "}
+              Transform your living room into a stylish retreat with a cohesive color palette,
+              key furniture pieces, layered textures, personal decor, and inviting lighting!{" "}
             </motion.p>
             <motion.div
               variants={SlideUp(0.6)}

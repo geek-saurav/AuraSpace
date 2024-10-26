@@ -36,7 +36,7 @@ const Navbar = () => {
         {/* Logo section */}
         <div className="flex items-center gap-3">
           <img src={Logo} alt="logo" className="w-10" />
-          <span className="text-2xl font-bold">Interior</span>
+          <span className="text-2xl font-bold">AuraSpace</span>
         </div>
         {/* Link section */}
         <div className="hidden md:block !space-x-12">
@@ -53,7 +53,7 @@ const Navbar = () => {
         </div>
         {/* Button section */}
         <div>
-          <button className="primary-btn">Try For Free</button>
+          <button className="primary-btn">Start Free Trial</button>
         </div>
       </motion.div>
     </>

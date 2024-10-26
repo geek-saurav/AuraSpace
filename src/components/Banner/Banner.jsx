@@ -27,7 +27,7 @@ const Banner = () => {
               whileInView="animate"
               className="text-4xl font-bold font-serif"
             >
-              We Believe that a team makes any project better
+              We believe that teamwork elevates every project.
             </motion.h1>
             <motion.p
               variants={SlideUp(0.4)}
@@ -35,8 +35,7 @@ const Banner = () => {
               whileInView="animate"
               className="text-gray-500 text-sm leading-7"
             >
-              Lorem ipsum dolor, sit amet consectetur adipisicing elit. Suscipit
-              earum accusantium tempore nam aliquid{" "}
+              Together, we turn visions into reality—because teamwork elevates every project!{" "}
             </motion.p>
             <div>
               <motion.button
